@@ -1,4 +1,9 @@
-### Hi there 👋
+###👋 Hi, I'm ammarimran123
+
+###👀 My interest are App & Web Development, Artificial Intelligence & Machine Learning
+###📫 How to reach me : ammarimran580@gmail.com
+
+
 
 <!--
 **ammarimran123/ammarimran123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
